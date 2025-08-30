@@ -28,5 +28,12 @@ Use pip install -r requirements.txt to configure the environment
 
 ## Citing:
 If you use the dataset or any trained models in your work, please cite the following article-
-
-[Z. Lin, J. Chen, Y. Fang, S.-h. Deng, H. Li, Y. Yang and J. Yao, Rapidly tailor metal-organic frameworks for arsenate removal using graph convolutional neural networks. *Separation and Purification Technology* 2025.](https://www.sciencedirect.com/science/article/pii/S1383586624030739?dgcid=coauthor)
+```bibtex
+@article{LIN2025129334,
+        title = {Rapidly tailor metal–organic frameworks for arsenate removal using graph convolutional neural networks},
+        journal = {Separation and Purification Technology},
+        volume = {354},
+        pages = {129334},
+        year = {2025},
+        issn = {1383-5866}
+}
