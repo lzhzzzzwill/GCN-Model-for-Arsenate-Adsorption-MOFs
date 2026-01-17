@@ -30,6 +30,7 @@ Use pip install -r requirements.txt to configure the environment
 If you use the dataset or any trained models in your work, please cite the following article-
 ```bibtex
 @article{LIN2025129334,
+        author = {Lin, Zuhong and Chen, Jiarong and Fang, Ying and Deng, Shi-hai and Li, Haipu and Yang, Ying and Yao, Jingjing},
         title = {Rapidly tailor metal–organic frameworks for arsenate removal using graph convolutional neural networks},
         journal = {Separation and Purification Technology},
         volume = {354},
