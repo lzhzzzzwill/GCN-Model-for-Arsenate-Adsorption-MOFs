@@ -5,7 +5,7 @@
 </div>
 
 ## Environment requirements:
-### Python 3.10.11:
+### Python 3.10:
 Model construction
 
 ## Code files:
